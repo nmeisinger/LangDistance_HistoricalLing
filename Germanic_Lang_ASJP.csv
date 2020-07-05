@@ -1,0 +1,2752 @@
+classification_ethnologue,classification_glottolog,classification_wals,code_glottolog,code_iso,code_wals,description,ethnologue_family,glottolog_family,id,jsondata,latitude,long_extinct,longitude,markup_description,name,number_of_speakers,pk,recently_extinct,txt,wals_family,wals_genus,wordlist_pk,year_of_extinction
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Afrikaansic",IE.GERMANIC,afri1274,afr,afr,,Indo-European,Indo-European,AFRIKAANS,{},-31.0,False,22.0,,Afrikaans,7225880,3687,False,"AFRIKAANS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Afrikaansic}
+ 1  -31.00   22.00     7225880   afr   afr
+1 I	Ek //
+2 you	y3i //
+3 we	o*s //
+11 one	en //
+12 two	tw~e //
+18 person	mE*s //
+19 fish	fis //
+21 dog	hont //
+22 louse	lEis //
+23 tree	bom //
+25 leaf	blor //
+28 skin	fEl //
+30 blood	blut //
+31 bone	ben //
+34 horn	horiN //
+39 ear	or //
+40 eye	ox //
+41 nose	nes //
+43 tooth	tant //
+44 tongue	toN //
+47 knee	kni //
+48 hand	hant //
+51 breast	bors //
+53 liver	lev3r //
+54 drink	driNk //
+57 see	sin //
+58 hear	hor //
+61 die	stErf, dotx~an //
+66 come	kom //
+72 sun	son //
+74 star	stEr //
+75 water	vat3r //
+77 stone	klip //
+82 fire	fur //
+85 path	pat //
+86 mountain	bErk //
+92 night	nax //
+95 full	fol //
+96 new	nut, nuv3 //
+100 name	nam //",IE,GERMANIC,3687,
+"Indo-European,Germanic,West,HighGerman,German,UpperGerman,Alemannic","Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Alemannic",IE.GERMANIC,swis1247,gsw,alt,,Indo-European,Indo-European,ALSATIAN,{},48.5,False,7.5,,Alsatian,5724200,3688,False,"ALSATIAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Alemannic@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Alemannic}
+ 1   48.50    7.50     5724200   alt   gsw
+1 I	ix //
+2 you	di //
+3 we	mir //
+11 one	eins //
+12 two	cvei //
+18 person	%person //
+19 fish	feS //
+21 dog	hunt //
+22 louse	lis //
+23 tree	bam //
+25 leaf	blet //
+28 skin	hit //
+30 blood	blu3t //
+31 bone	knox3 //
+39 ear	or //
+40 eye	au //
+41 nose	nos //
+43 tooth	con //
+44 tongue	cuN //
+47 knee	kni //
+48 hand	hont //
+51 breast	bruSt //
+53 liver	lEv3r //
+54 drink	driNk~3 //
+57 see	sE //
+58 hear	her3 //
+61 die	stErv3 //
+66 come	kum3 //
+72 sun	sun //
+74 star	Stern3 //
+75 water	vos3r //
+77 stone	Stan //
+82 fire	fir //
+85 path	Stros //
+86 mountain	bEri //
+92 night	not //
+96 new	nei //
+100 name	nom3 //",IE,GERMANIC,3688,
+"Indo-European,Germanic,West,HighGerman,German,UpperGerman,Bavarian-Austrian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Bayerisch",IE.GERMANIC,bava1246,bar,gau,,Indo-European,Indo-European,BAVARIAN_GERMAN,{},47.0,False,14.0,,Bavarian German,14359000,3689,False,"BAVARIAN_GERMAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Bavarian-Austrian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Bayerisch}
+ 1   47.00   14.00    14359000   gau   bar
+1 I	i //
+2 you	tu //
+3 we	mia //
+11 one	oa //
+12 two	cboa, cve //
+18 person	menS //
+19 fish	fiS //
+21 dog	hunt //
+23 tree	pam //
+39 ear	3oa //
+41 nose	nasa //
+47 knee	kNia //
+48 hand	hent //
+57 see	seN //
+61 die	kStorm //
+66 come	kh~imd //
+72 sun	sun //
+75 water	vosa //
+86 mountain	pEakh~ //
+92 night	noht //
+95 full	foy, foe //
+96 new	naea //
+100 name	nom //",IE,GERMANIC,3689,
+"Indo-European,Germanic,West,HighGerman,German,UpperGerman,Alemannic","Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Alemannic",IE.GERMANIC,swis1247,gsw,alt,,Indo-European,Indo-European,BERNESE_GERMAN,{},47.0,False,7.42,,Bernese German,5724200,3690,False,"BERNESE_GERMAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Alemannic@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Alemannic}
+ 1   47.00    7.42     5724200   alt   gsw
+1 I	ig //
+2 you	du //
+3 we	mir //
+11 one	Eis //
+12 two	cw~ei //
+18 person	menS~ //
+19 fish	fiS //
+21 dog	huN //
+22 louse	lus //
+23 tree	boum //
+25 leaf	blot //
+28 skin	hut //
+30 blood	bluet //
+31 bone	xnoxe //
+34 horn	horn //
+39 ear	or //
+40 eye	oug //
+41 nose	nose //
+43 tooth	coN //
+44 tongue	cuNe //
+47 knee	xnei //
+48 hand	hoN //
+51 breast	bruSt //
+53 liver	lEbere //
+54 drink	triNk~e //
+57 see	gse //
+58 hear	ghere //
+61 die	StErbe //
+66 come	xo //
+72 sun	sunne //
+74 star	StErn //
+75 water	vosser //
+77 stone	StEi, xemp~ //
+82 fire	fir //
+85 path	vEg //
+86 mountain	bErg //
+92 night	not //
+95 full	fou //
+96 new	nei //
+100 name	nome //",IE,GERMANIC,3690,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch",IE.GERMANIC,dutc1256,nld,dbr,,Indo-European,Indo-European,BRABANTIC,{},50.75,False,4.5,,Brabantic,23025430,3691,False,"BRABANTIC{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   50.75    4.50    23025430   dbr   nld
+1 I	ik, ik3 //
+2 you	ga //
+3 we	mE, vaEl3 //
+11 one	i3n //
+12 two	tvi3 //
+18 person	mins //
+19 fish	fis //
+21 dog	ont //
+22 louse	lo3s //
+23 tree	bu3m //
+25 leaf	blat //
+28 skin	fEl //
+30 blood	blut //
+31 bone	bi3n //
+34 horn	iEr3 //
+39 ear	u3r //
+40 eye	u3x //
+41 nose	nes //
+43 tooth	tant //
+44 tongue	tuN //
+47 knee	tnin //
+48 hand	ant //
+51 breast	bEst, bEstn //
+53 liver	lEiv3r //
+54 drink	driNk //
+57 see	zi //
+58 hear	u3r //
+61 die	stEr3v //
+66 come	kom //
+72 sun	zon3 //
+74 star	stEr //
+75 water	vat3r //
+77 stone	sti3n //
+82 fire	fi //
+85 path	vesk3 //
+86 mountain	bEr3x //
+92 night	nat //
+95 full	fol //
+96 new	nit, nif //
+100 name	nam //",IE,GERMANIC,3691,
+"Indo-European,Germanic,West,HighGerman,German,UpperGerman,Bavarian-Austrian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Bayerisch",IE.GERMANIC,cimb1238,cim,,,Indo-European,Indo-European,CIMBRIAN,{},45.92,False,11.32,,Cimbrian,2230,3692,False,"CIMBRIAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Bavarian-Austrian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Bayerisch}
+ 1   45.92   11.32        2230         cim
+1 I	ix //
+2 you	du, dE //
+3 we	bar //
+12 two	sben //
+18 person	menEs //
+21 dog	hunt //
+22 louse	laus //
+23 tree	pom //
+25 leaf	placa, lop //
+30 blood	plut //
+31 bone	poan //
+34 horn	horn //
+39 ear	oar //
+40 eye	ogh~E //
+41 nose	naza, kanipa //
+44 tongue	suNa, gaprext //
+48 hand	hant //
+51 breast	prust, puzamEn //
+53 liver	lEbara //
+54 drink	trinkh~ //
+57 see	zeg //
+58 hear	hor //
+61 die	sterb //
+66 come	kh~Em //
+72 sun	zuna //
+74 star	stErna, stEarn //
+75 water	basar //
+77 stone	kh~noto, stoan //
+82 fire	boar //
+85 path	bEgale //
+86 mountain	perg //
+92 night	naxt //
+95 full	bol, gabasEt //
+96 new	noy //
+100 name	namo //",IE,GERMANIC,3692,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Riksmal,Danish","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,SouthScandinavian",IE.GERMANIC,dani1285,dan,dsh,,Indo-European,Indo-European,DANISH,{},56.0,False,10.0,,Danish,5621380,3693,False,"DANISH{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Riksmal,Danish@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,SouthScandinavian}
+ 1   56.00   10.00     5621380   dsh   dan
+1 I	yEy //
+2 you	du //
+3 we	vi //
+11 one	e7n //
+12 two	to7 //
+18 person	mEnsk3 //
+19 fish	fesk //
+21 dog	hun7 //
+22 louse	lus //
+23 tree	trE7 //
+25 leaf	blE8 //
+28 skin	hu87 //
+30 blood	blo87 //
+31 bone	ben //
+34 horn	ho7an //
+39 ear	ea //
+40 eye	ay3 //
+41 nose	nEs3 //
+43 tooth	tEn7 //
+44 tongue	toN3 //
+47 knee	knE7 //
+48 hand	han7 //
+51 breast	brest //
+53 liver	lewa //
+54 drink	drEg3 //
+57 see	se7 //
+58 hear	hea //
+61 die	de7 //
+66 come	kam3 //
+72 sun	sol //
+74 star	styEan3 //
+75 water	vEn7 //
+77 stone	sten //
+82 fire	il7 //
+85 path	sti7 //
+86 mountain	by~Ew7 //
+92 night	nEt //
+95 full	ful7 //
+96 new	ni7 //
+100 name	naw7n //",IE,GERMANIC,3693,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Riksmal,Danish","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,SouthScandinavian",IE.GERMANIC,dani1285,dan,dsh,,Indo-European,Indo-European,DANISH_2,{},56.0,False,10.0,,Danish 2,5621380,3694,False,"DANISH_2{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Riksmal,Danish@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,SouthScandinavian}
+ 1   56.00   10.00     5621380   dsh   dan
+1 I	yoy //
+2 you	du //
+3 we	vi //
+4 this	dEd3 //
+5 that	de //
+6 who	vEm7 //
+7 what	va //
+8 not	eg3 //
+9 all	al7d //
+11 one	e7n //
+12 two	to7 //
+13 big	sdo7a //
+14 long	loN7 //
+15 small	lil3 //
+16 woman	kven3 //
+17 man	mon //
+18 person	mennesg3 //
+19 fish	fesg //
+20 bird	fu7l //
+21 dog	hun7 //
+22 louse	lu7s //
+23 tree	trE7 //
+24 seed	se78 //
+25 leaf	bla8 //
+26 root	ro78 //
+27 bark	boXg //
+28 skin	hu87 //
+29 flesh	ke87 //
+30 blood	blo78 //
+31 bone	be7n //
+32 grease	fed //
+33 egg	E7g //
+34 horn	ho7rn //
+35 tail	hal3 //
+36 feather	fye7X //
+37 hair	ho7r //
+38 head	ho83 //
+39 ear	er3 //
+40 eye	oy3 //
+41 nose	nEs3 //
+42 mouth	mon7 //
+43 tooth	tan7 //
+44 tongue	toN3 //
+45 claw	feN3Xnoi7l //
+46 foot	fo78 //
+47 knee	knE7 //
+48 hand	hon7 //
+49 belly	mav3 //
+50 neck	hal7s //
+51 breast	boX7m //
+52 heart	yEad3 //
+53 liver	le7v3r //
+54 drink	dXeg3 //
+55 eat	sbis3 //
+56 bite	bi83 //
+57 see	se7 //
+58 hear	hea //
+59 know	vi83 //
+60 sleep	sow3 //
+61 die	de7 //
+62 kill	dXEb3 //
+63 swim	svem3 //
+64 fly	fliv3 //
+65 walk	leb3 //
+66 come	kom3 //
+67 lie	leg3 //
+68 sit	se83 //
+69 stand	sdo7 //
+70 give	gi7 //
+71 say	si3 //
+72 sun	so7l //
+73 moon	mon3 //
+74 star	sdyEan3 //
+75 water	van7 //
+76 rain	roy7n //
+77 stone	sde7n //
+78 sand	san7 //
+79 earth	yo7r //
+80 cloud	sgi7 //
+81 smoke	roy7 //
+82 fire	il7 //
+83 ash	asg3 //
+84 burn	bXEn3 //
+85 path	sdi7 //
+86 mountain	byEX7w //
+87 red	re87 //
+88 green	grEn7 //
+89 yellow	gu7l //
+90 white	wi8 //
+91 black	sord //
+92 night	nad //
+93 hot	vo7m //
+94 cold	kol7 //
+95 full	ful7 //
+96 new	ni7 //
+97 good	go7 //
+98 round	ron7 //
+99 dry	tE7a //
+100 name	now7n //",IE,GERMANIC,3694,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch",IE.GERMANIC,dutc1256,nld,dbr,,Indo-European,Indo-European,DUTCH,{},52.5,False,6.0,,Dutch,23025430,3695,False,"DUTCH{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   52.50    6.00    23025430   dbr   nld
+1 I	ik //
+2 you	yEi, y3 //
+3 we	vEi, v3 //
+11 one	en //
+12 two	tve //
+18 person	%pErson, mEns //
+19 fish	vis //
+21 dog	hont //
+22 louse	l3is //
+23 tree	bom //
+25 leaf	blat //
+28 skin	h3id, vEl //
+30 blood	blut //
+31 bone	ben //
+34 horn	horn //
+39 ear	or //
+40 eye	oX //
+41 nose	nes //
+43 tooth	tant //
+44 tongue	toN //
+47 knee	kni //
+48 hand	hant //
+51 breast	borst //
+53 liver	lev3r //
+54 drink	driNk3n //
+57 see	zin //
+58 hear	hor3n //
+61 die	stErv3n //
+66 come	kom3n //
+72 sun	zon //
+74 star	ster //
+75 water	vat3r //
+77 stone	sten //
+82 fire	vir //
+85 path	pat, vEx //
+86 mountain	bErx //
+92 night	nat //
+95 full	vol //
+96 new	niu //
+100 name	nam //",IE,GERMANIC,3695,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch",IE.GERMANIC,dutc1256,nld,dbr,,Indo-European,Indo-European,DUTCH_2,{},52.5,False,6.0,,Dutch 2,23025430,3696,False,"DUTCH_2{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   52.50    6.00    23025430   dbr   nld
+1 I	ik //
+2 you	y3, yEi //
+3 we	w3, wEi //
+4 this	dit //
+5 that	dot //
+6 who	wi //
+7 what	wot //
+8 not	nit //
+9 all	olEs //
+11 one	en //
+12 two	twe //
+13 big	xrot //
+14 long	loN //
+15 small	klEin //
+16 woman	vrou //
+17 man	mon //
+18 person	mEns //
+19 fish	vis //
+20 bird	voxEl //
+21 dog	hont //
+22 louse	l3is //
+23 tree	bom //
+24 seed	zat //
+25 leaf	blot //
+26 root	wort3l //
+27 bark	sxors //
+28 skin	hEit //
+29 flesh	vles //
+30 blood	blut //
+31 bone	bot, b3, knok //
+32 grease	vEt //
+33 egg	Ei //
+34 horn	horn //
+35 tail	start //
+36 feather	ver, pl3im //
+37 hair	har //
+38 head	hoft //
+39 ear	or //
+40 eye	ox //
+41 nose	nes //
+42 mouth	mont //
+43 tooth	tont //
+44 tongue	toN //
+45 claw	naxEl //
+46 foot	vut //
+47 knee	kni //
+48 hand	hont //
+49 belly	bEik //
+50 neck	hols //
+51 breast	buzEm //
+52 heart	hort //
+53 liver	levEr //
+54 drink	drink3 //
+55 eat	et3 //
+56 bite	bEit3 //
+57 see	zin //
+58 hear	hor3 //
+59 know	wet3 //
+60 sleep	slap3 //
+61 die	stErv3, ovErlEid3 //
+62 kill	dod3 //
+63 swim	zwEm3 //
+64 fly	vlix3 //
+65 walk	lop3 //
+66 come	kom3 //
+67 lie	lix3 //
+68 sit	zit3 //
+69 stand	stan //
+70 give	xev3 //
+71 say	zEx3 //
+72 sun	zon //
+73 moon	man //
+74 star	ster //
+75 water	wat3r //
+76 rain	rex3 //
+77 stone	sten //
+78 sand	zont //
+79 earth	ard3 //
+80 cloud	wolk //
+81 smoke	rok //
+82 fire	vir //
+83 ash	os //
+84 burn	brond3 //
+85 path	pot //
+86 mountain	bErx //
+87 red	rot //
+88 green	xrun //
+89 yellow	xel //
+90 white	wit //
+91 black	zwort //
+92 night	noxt //
+93 hot	worm //
+94 cold	kaut //
+95 full	vol //
+96 new	niu //
+97 good	xut //
+98 round	ront //
+99 dry	drox //
+100 name	nam //",IE,GERMANIC,3696,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman,Ostfriesisch-Groningisch",IE.GERMANIC,nort2628,frs,fea,,Indo-European,Indo-European,EASTERN_FRISIAN,{},53.58,False,7.5,,Eastern Frisian,200000,3697,False,"EASTERN_FRISIAN{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman,Ostfriesisch-Groningisch}
+ 1   53.58    7.50      200000   fea   frs
+1 I	ik //
+3 we	vi //
+11 one	en //
+12 two	tve, tvEi //
+18 person	minS //
+19 fish	fisk //
+21 dog	hun //
+22 louse	lus //
+23 tree	bom //
+25 leaf	blat //
+28 skin	hut //
+31 bone	knak3n //
+39 ear	gaf3l //
+40 eye	og3 //
+41 nose	nes, nEs //
+43 tooth	tan //
+47 knee	kne //
+48 hand	han //
+51 breast	bo3st //
+53 liver	lEba //
+54 drink	driNk //
+57 see	kik //
+58 hear	her //
+61 die	dotblev //
+72 sun	sin //
+74 star	stean //
+75 water	vata, vota //
+77 stone	sten //
+82 fire	fia //
+85 path	vek //
+86 mountain	baak //
+92 night	nat //
+95 full	ful //
+96 new	nEi //
+100 name	nom3 //",IE,GERMANIC,3697,
+"Indo-European,Germanic,West,English","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English",IE.GERMANIC,stan1293,eng,eng,,Indo-European,Indo-European,ENGLISH,{},52.0,False,0.0,,English,378250540,3698,False,"ENGLISH{IE.GERMANIC|Indo-European,Germanic,West,English@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English}
+ 1   52.00    0.00   378250540   eng   eng
+1 I	Ei //
+2 you	yu //
+3 we	wi //
+4 this	8is //
+5 that	8Et //
+6 who	hu //
+7 what	wh~at //
+8 not	nat //
+9 all	ol //
+10 many	mini //
+11 one	w3n //
+12 two	tu //
+13 big	big //
+14 long	loN //
+15 small	smal, litl //
+16 woman	wum3n //
+17 man	mEn //
+18 person	%prs3n //
+19 fish	fiS //
+20 bird	b3rd //
+21 dog	dag //
+22 louse	laus //
+23 tree	tri //
+24 seed	sid //
+25 leaf	lif //
+26 root	rut //
+27 bark	%bark //
+28 skin	%skin //
+29 flesh	flES, mit //
+30 blood	bl3d //
+31 bone	bon //
+32 grease	%gris //
+33 egg	%eg //
+34 horn	horn //
+35 tail	tel //
+36 feather	fE8r //
+37 hair	hEr //
+38 head	hEd //
+39 ear	ir //
+40 eye	Ei //
+41 nose	noz //
+42 mouth	mau8 //
+43 tooth	tu8 //
+44 tongue	t3N //
+45 claw	klo //
+46 foot	fut //
+47 knee	ni //
+48 hand	hEnd //
+49 belly	bEli //
+50 neck	nEk //
+51 breast	brEst //
+52 heart	hart //
+53 liver	liv3r //
+54 drink	driNk //
+55 eat	it //
+56 bite	bEit //
+57 see	si //
+58 hear	hir //
+59 know	no //
+60 sleep	slip //
+61 die	dEi //
+62 kill	kil //
+63 swim	swim //
+64 fly	flEi //
+65 walk	wok //
+66 come	k3m //
+67 lie	lEi //
+68 sit	sit //
+69 stand	stEnd //
+70 give	%giv //
+71 say	sei //
+72 sun	s3n //
+73 moon	mun //
+74 star	star //
+75 water	wat3r //
+76 rain	rein //
+77 stone	ston //
+78 sand	sEnd //
+79 earth	3r8 //
+80 cloud	klaud //
+81 smoke	smok //
+82 fire	fEir //
+83 ash	ES //
+84 burn	b3rn //
+85 path	pE8 //
+86 mountain	%maunt3n //
+87 red	rEd //
+88 green	grin //
+89 yellow	yElo //
+90 white	wh~Eit //
+91 black	blEk //
+92 night	nEit //
+93 hot	hat //
+94 cold	kold //
+95 full	ful //
+96 new	nu //
+97 good	gud //
+98 round	%rawnd //
+99 dry	drEi //
+100 name	nem //",IE,GERMANIC,3698,
+"Indo-European,Germanic,West,English","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English",IE.GERMANIC,stan1293,eng,eng,,Indo-European,Indo-European,ENGLISH_2,{},52.0,False,0.0,,English 2,378250540,3699,False,"ENGLISH_2{IE.GERMANIC|Indo-European,Germanic,West,English@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English}
+ 1   52.00    0.00   378250540   eng   eng
+1 I	ai //
+2 you	yu, 8au //
+3 we	wi //
+4 this	8is //
+5 that	8Et //
+6 who	hu //
+7 what	wot //
+8 not	not //
+9 all	evri8iN //
+11 one	won //
+12 two	tu //
+13 big	big //
+14 long	loN //
+15 small	litl //
+16 woman	wum3n //
+17 man	mEn //
+18 person	hyum3n //
+19 fish	fiS //
+20 bird	b3d //
+21 dog	dog //
+22 louse	laus //
+23 tree	tri //
+24 seed	sid //
+25 leaf	lif //
+26 root	rut //
+27 bark	bok //
+28 skin	skin //
+29 flesh	mit //
+30 blood	blod //
+31 bone	b3un //
+32 grease	fEt //
+33 egg	eg //
+34 horn	hon //
+35 tail	teil //
+36 feather	fe83 //
+37 hair	he3 //
+38 head	hed //
+39 ear	i3 //
+40 eye	ai //
+41 nose	n3uz //
+42 mouth	mau8 //
+43 tooth	tu8 //
+44 tongue	toN //
+45 claw	fiNg3neil //
+46 foot	fut //
+47 knee	ni //
+48 hand	hEnd //
+49 belly	beli //
+50 neck	nek //
+51 breast	buz3m //
+52 heart	hot //
+53 liver	liv3 //
+54 drink	driNk //
+55 eat	it //
+56 bite	bait //
+57 see	si //
+58 hear	hi3 //
+59 know	n3u //
+60 sleep	slip //
+61 die	dai //
+62 kill	kil //
+63 swim	swim //
+64 fly	flai //
+65 walk	wok //
+66 come	kom //
+67 lie	lai //
+68 sit	sit //
+69 stand	stEnd //
+70 give	giv //
+71 say	sei //
+72 sun	son //
+73 moon	mun //
+74 star	sto //
+75 water	wot3 //
+76 rain	rein //
+77 stone	st3un //
+78 sand	sEnd //
+79 earth	38 //
+80 cloud	klaud //
+81 smoke	sm3uk //
+82 fire	fai3 //
+83 ash	ESiz //
+84 burn	b3n //
+85 path	po8 //
+86 mountain	mauntin //
+87 red	red //
+88 green	grin //
+89 yellow	yel3u //
+90 white	wait //
+91 black	blEk //
+92 night	nait //
+93 hot	wom //
+94 cold	k3uld //
+95 full	ful //
+96 new	nyu //
+97 good	gud //
+98 round	raund //
+99 dry	drai //
+100 name	neim //",IE,GERMANIC,3699,
+"Indo-European,Germanic,North,WestScandinavian","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian,Icelandic-Faroese",IE.GERMANIC,faro1244,fao,far,,Indo-European,Indo-European,FAROESE,{},62.0,False,-7.0,,Faroese,69000,3700,False,"FAROESE{IE.GERMANIC|Indo-European,Germanic,North,WestScandinavian@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian,Icelandic-Faroese}
+ 1   62.00   -7.00       69000   far   fao
+1 I	Eg //
+2 you	ti //
+3 we	vit //
+11 one	oin, oit //
+12 two	tvoir, tvEi //
+18 person	mEdn~iSa //
+19 fish	fiskur //
+21 dog	hundur //
+22 louse	lis //
+23 tree	trEa //
+25 leaf	bla //
+28 skin	Sidn~ //
+30 blood	ble //
+31 bone	boin //
+34 horn	hodn~ //
+39 ear	oira //
+40 eye	Eiga //
+41 nose	nes //
+43 tooth	todn~ //
+44 tongue	tuNga //
+47 knee	kh~nEa //
+48 hand	hond //
+51 breast	brest //
+53 liver	livur //
+54 drink	drekh~a //
+57 see	suigy~a //
+58 hear	hoira //
+61 die	doigy~a //
+66 come	kh~oma //
+72 sun	sel //
+74 star	Serna //
+75 water	vatn //
+77 stone	stoinur //
+82 fire	Eldur //
+85 path	geta, vEgur //
+86 mountain	fy~adl~ //
+92 night	not //
+95 full	fudl~ur //
+96 new	nuigy~ur //
+100 name	navn~, nam //",IE,GERMANIC,3700,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch",IE.GERMANIC,vlaa1240,vls,,,Indo-European,Indo-European,FRANS_VLAAMS,{},51.04,False,2.38,,Frans Vlaams,1234000,3701,False,"FRANS_VLAAMS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   51.04    2.38     1234000         vls
+1 I	ik //
+2 you	gi, yE //
+3 we	mE, vid3r //
+11 one	en //
+12 two	tve //
+18 person	mEnS //
+19 fish	fiS //
+21 dog	unt, ount //
+22 louse	lus //
+23 tree	bom //
+25 leaf	blEt //
+28 skin	fEl //
+30 blood	blut //
+31 bone	ben //
+39 ear	or3 //
+40 eye	og3 //
+41 nose	niuz3 //
+43 tooth	tant //
+44 tongue	tuN3 //
+47 knee	kni //
+48 hand	ant //
+51 breast	borst //
+53 liver	lev3r //
+54 drink	driNk //
+57 see	zi //
+58 hear	or //
+61 die	dot ga //
+66 come	kom //
+72 sun	zun3 //
+74 star	stEr3 //
+75 water	vEt3r //
+77 stone	sten //
+82 fire	fir //
+85 path	vek //
+86 mountain	berk //
+92 night	nat //
+95 full	ful //
+96 new	nieu //
+100 name	nEm3 //",IE,GERMANIC,3701,
+"Indo-European,Germanic,West,Frisian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Frisian",IE.GERMANIC,west2354,fry,frw,,Indo-European,Indo-European,FRISIAN_WESTERN,{},53.0,False,6.0,,Frisian Western,845100,3702,False,"FRISIAN_WESTERN{IE.GERMANIC|Indo-European,Germanic,West,Frisian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Frisian}
+ 1   53.00    6.00      845100   frw   fry
+1 I	ik //
+2 you	do, yo //
+3 we	vEi //
+11 one	i3n, yin //
+12 two	tw~a, tva //
+18 person	mi*nsk //
+19 fish	fisk //
+21 dog	hun //
+22 louse	lis //
+23 tree	bi3m, by~Em //
+25 leaf	blEt //
+28 skin	hut //
+30 blood	blu3t //
+31 bone	boNk3 //
+34 horn	ho3n, hw~an //
+39 ear	i3r //
+40 eye	i3x //
+41 nose	nes, nas3 //
+43 tooth	tosk //
+44 tongue	toN3, toNg3 //
+47 knee	knib3l //
+48 hand	hon //
+51 breast	bo3st, bast //
+53 liver	lew3r //
+54 drink	driNk3 //
+57 see	sy~En //
+58 hear	hy~Er3, hi3r3 //
+61 die	sty~Er3, di3gi3n //
+66 come	kom3 //
+72 sun	sin3 //
+74 star	sty~Er //
+75 water	vEt3r //
+77 stone	sti3n //
+82 fire	fy~u3r //
+85 path	dik, dEik //
+86 mountain	bErx //
+92 night	nat //
+95 full	fol //
+96 new	nEy, nEi //
+100 name	nam3 //",IE,GERMANIC,3702,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian",IE.GERMANIC,norw1258,nor,,,Indo-European,Indo-European,GJESTAL_NORWEGIAN,{},61.0,False,8.0,,Gjestal Norwegian,5189940,3703,False,"GJESTAL_NORWEGIAN{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   61.00    8.00     5189940         nor
+1 I	Eg //
+3 we	me //
+11 one	en //
+12 two	to //
+18 person	menesye //
+19 fish	fisk //
+21 dog	hon //
+22 louse	lus //
+23 tree	tre //
+25 leaf	bla //
+28 skin	syin //
+30 blood	blo //
+31 bone	bEin //
+39 ear	Eyra //
+40 eye	aua //
+41 nose	nase //
+43 tooth	ton //
+44 tongue	toNa //
+48 hand	hon //
+53 liver	livr //
+54 drink	drika //
+57 see	syo //
+58 hear	hEyra //
+61 die	dEy //
+66 come	koma //
+72 sun	sol //
+74 star	syEdna //
+75 water	vaten //
+77 stone	steiden //
+82 fire	el //
+85 path	veg //
+86 mountain	fyedel //
+92 night	not //
+96 new	nie //
+100 name	nabn //",IE,GERMANIC,3703,
+"Indo-European,Germanic,East","Indo-European,Germanic",IE.GERMANIC,goth1244,got,,,Indo-European,Indo-European,GOTHIC,{},43.22,True,25.62,,Gothic,0,3704,False,"GOTHIC{IE.GERMANIC|Indo-European,Germanic,East@Indo-European,Germanic}
+ 1   43.22   25.62          -2         got
+1 I	ik //
+2 you	8u //
+3 we	wis //
+11 one	Ens //
+12 two	tw~E //
+18 person	mana //
+19 fish	fisks //
+21 dog	hunds //
+23 tree	bagms, triu //
+25 leaf	laufs //
+28 skin	fil //
+30 blood	blo8 //
+34 horn	horn //
+39 ear	auso //
+40 eye	auxo //
+43 tooth	tun8us //
+44 tongue	tuNgo //
+47 knee	kniu //
+48 hand	handus //
+51 breast	brusts, barms //
+54 drink	driNkan //
+57 see	sEhw~an //
+58 hear	hausy~an //
+61 die	diwan, dau8nan //
+66 come	kw~iman //
+72 sun	sauil, suno //
+74 star	stErno //
+75 water	wato, ahw~a //
+77 stone	stains, halus //
+82 fire	fon, hauri //
+85 path	staixa, wigs //
+86 mountain	fErguni, bErgs //
+92 night	nats //
+95 full	fuls //
+96 new	niuyis //
+100 name	namo //",IE,GERMANIC,3704,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman,Ostfriesisch-Groningisch",IE.GERMANIC,gron1242,gos,,,Indo-European,Indo-European,GRONINGS,{},53.28,False,6.7,,Gronings,611000,3705,False,"GRONINGS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman,Ostfriesisch-Groningisch}
+ 1   53.28    6.70      611000         gos
+1 I	ik //
+2 you	du, ie //
+3 we	w3 //
+11 one	aine //
+12 two	twei //
+18 person	man //
+19 fish	visk //
+21 dog	hond //
+23 tree	bom //
+25 leaf	blat //
+28 skin	hit //
+30 blood	blut, blaut //
+31 bone	bo*Nk //
+34 horn	horn //
+40 eye	ox //
+41 nose	nEs //
+48 hand	hant //
+51 breast	borst //
+54 drink	driN7n //
+57 see	zain //
+61 die	starv3n //
+66 come	kom3n //
+72 sun	zin //
+74 star	stirn //
+75 water	wott3r //
+77 stone	stain //
+85 path	pat //
+92 night	naxt //
+96 new	niy //",IE,GERMANIC,3705,
+"Indo-European,Germanic,West,HighGerman,German,UpperGerman,Bavarian-Austrian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Bayerisch",IE.GERMANIC,hutt1235,geh,,,Indo-European,Indo-European,HUTTERITE_GERMAN,{},40.0,False,-97.0,,Hutterite German,40000,3706,False,"HUTTERITE_GERMAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Bavarian-Austrian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Bayerisch}
+ 1   40.00  -97.00       40000         geh
+11 one	ans //
+18 person	mEnS //
+21 dog	hunt //
+23 tree	bam //
+28 skin	haut, hait //
+31 bone	knux3 //
+34 horn	hadn //
+39 ear	arN //
+40 eye	augN //
+43 tooth	cant //
+48 hand	hant //
+57 see	se3 //
+82 fire	fui3r //
+92 night	naxt //
+96 new	nai //
+100 name	nam //",IE,GERMANIC,3706,
+"Indo-European,Germanic,North,WestScandinavian","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian,Icelandic-Faroese",IE.GERMANIC,icel1247,isl,ice,,Indo-European,Indo-European,ICELANDIC,{},65.0,False,-17.0,,Icelandic,321040,3707,False,"ICELANDIC{IE.GERMANIC|Indo-European,Germanic,North,WestScandinavian@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian,Icelandic-Faroese}
+ 1   65.00  -17.00      321040   ice   isl
+1 I	yEx //
+2 you	8u //
+3 we	vi8 //
+11 one	eitn~ //
+12 two	th~veir //
+18 person	manEsTa //
+19 fish	fiskir //
+21 dog	hintir //
+22 louse	lus //
+23 tree	th~ry~E //
+25 leaf	pla8 //
+28 skin	hu8, sTin //
+30 blood	plou8 //
+31 bone	pein //
+34 horn	hortn~ //
+39 ear	eira //
+40 eye	eixa //
+41 nose	nev //
+43 tooth	th~En //
+44 tongue	th~uNka //
+47 knee	hny~E //
+48 hand	hEnt //
+51 breast	pry~oust //
+53 liver	livir //
+54 drink	trEka //
+57 see	sy~au //
+58 hear	heira //
+61 die	teiya //
+66 come	kh~oma //
+72 sun	soul //
+74 star	sty~artn~a //
+75 water	vatn~ //
+77 stone	steitn~ //
+82 fire	Eltir, paul //
+85 path	stixir, kata //
+86 mountain	fy~atl, fEtl //
+92 night	nout //
+95 full	fitlir //
+96 new	nir //
+100 name	navn //",IE,GERMANIC,3707,
+"Indo-European,Germanic,North,WestScandinavian","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian,Icelandic-Faroese",IE.GERMANIC,icel1247,isl,ice,,Indo-European,Indo-European,ICELANDIC_2,{},65.0,False,-17.0,,Icelandic 2,321040,3708,False,"ICELANDIC_2{IE.GERMANIC|Indo-European,Germanic,North,WestScandinavian@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian,Icelandic-Faroese}
+ 1   65.00  -17.00      321040   ice   isl
+1 I	yEx //
+2 you	8u //
+3 we	vi8 //
+4 this	8Ehto //
+5 that	8o8 //
+6 who	kh~vEr //
+7 what	kh~vo8 //
+8 not	Ehki //
+9 all	olt //
+11 one	Eitn //
+12 two	th~vEir //
+13 big	stour //
+14 long	louNkir //
+15 small	lititl //
+16 woman	kh~ono //
+17 man	mo8ir, kh~orlmo8ir //
+18 person	mo8ir, monnEskyo //
+19 fish	fiskir //
+20 bird	fikl //
+21 dog	hintir //
+22 louse	lus //
+23 tree	th~ryE //
+24 seed	frai, utsai8i //
+25 leaf	plo8 //
+26 root	routh~ //
+27 bark	pErkir //
+28 skin	hu8, sTinn //
+29 flesh	Th~Eth~ //
+30 blood	plou8 //
+31 bone	pEin //
+32 grease	fito //
+33 egg	Egk //
+34 horn	hortn //
+35 tail	rouvo, skoht //
+36 feather	fyE8ir //
+37 hair	hour //
+38 head	hEvi8 //
+39 ear	Eiro //
+40 eye	Eixo //
+41 nose	nEv //
+42 mouth	minnir //
+43 tooth	th~Enn //
+44 tongue	th~uNko //
+45 claw	fiNkirdnEkl //
+46 foot	foutir //
+47 knee	kh~nyE //
+48 hand	hEnt //
+49 belly	kvi8ir //
+50 neck	houls //
+51 breast	pormir //
+52 heart	Sorto //
+53 liver	livir //
+54 drink	trEhko //
+55 eat	por8o //
+56 bite	pito //
+57 see	syou //
+58 hear	hEiro //
+59 know	vito //
+60 sleep	sovo //
+61 die	tEiyo //
+62 kill	trEph~o //
+63 swim	sinto //
+64 fly	flyuxo //
+65 walk	loppo //
+66 come	kh~omo //
+67 lie	liggyo //
+68 sit	sityo //
+69 stand	stonto //
+70 give	TEvo //
+71 say	seiyyo //
+72 sun	soul //
+73 moon	th~uNl //
+74 star	styordno //
+75 water	vohtn //
+76 rain	rEkn //
+77 stone	stEitn //
+78 sand	sontir //
+79 earth	yEr8 //
+80 cloud	sTi //
+81 smoke	rEikir //
+82 fire	Eltir //
+83 ash	osko //
+84 burn	prEnno //
+85 path	stixir //
+86 mountain	fEtl, fyotl //
+87 red	rEi8ir //
+88 green	kraitn //
+89 yellow	kilir //
+90 white	kh~vitir //
+91 black	svortir //
+92 night	nouht //
+93 hot	lir, hEitir //
+94 cold	kh~oltir //
+95 full	fidlir //
+96 new	nir //
+97 good	kou8ir //
+98 round	kh~riNlouhtir //
+99 dry	8irr //
+100 name	nopn //",IE,GERMANIC,3708,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Swedish","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,NorthScandinavian,East-CentralSwedic,EastSwedic",IE.GERMANIC,swed1254,swe,swe,,Indo-European,Indo-European,JAMTLANDIC,{},63.0,False,14.67,,Jamtlandic,9606320,3709,False,"JAMTLANDIC{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Swedish@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,NorthScandinavian,East-CentralSwedic,EastSwedic}
+ 1   63.00   14.67     9606320   swe   swe
+1 I	yex //
+2 you	d3 //
+3 we	ma //
+11 one	ein, et //
+12 two	tvu //
+18 person	mEniS //
+19 fish	fisk //
+21 dog	h3n //
+22 louse	l3s //
+23 tree	tre //
+25 leaf	l33v //
+28 skin	h3 //
+30 blood	bru //
+31 bone	bein //
+34 horn	hun //
+39 ear	er //
+40 eye	33x //
+41 nose	n3s3 //
+43 tooth	th~an //
+44 tongue	th~uN //
+47 knee	kne //
+48 hand	han //
+51 breast	br3st //
+53 liver	lev3r //
+54 drink	drEk //
+57 see	si //
+58 hear	her //
+61 die	dEi //
+66 come	kh~umu //
+72 sun	sur //
+74 star	SEn //
+75 water	vatn //
+77 stone	stein //
+82 fire	eil //
+85 path	stix //
+86 mountain	barx~ //
+92 night	nat //
+95 full	f3l //
+96 new	ni //
+100 name	namn //",IE,GERMANIC,3709,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,MiddleFranconian,Ripuarian",IE.GERMANIC,limb1263,lim,,,Indo-European,Indo-European,LIMBURGISH,{},51.0,False,5.5,,Limburgish,1300000,3710,False,"LIMBURGISH{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,MiddleFranconian,Ripuarian}
+ 1   51.00    5.50     1300000         lim
+1 I	ix //
+2 you	du //
+3 we	fer //
+11 one	Ein //
+12 two	tvi //
+18 person	minS //
+19 fish	vES //
+21 dog	honty~, honC //
+22 louse	lus //
+23 tree	boum //
+25 leaf	blat //
+28 skin	hut //
+30 blood	blot //
+31 bone	knok //
+34 horn	hor3 //
+39 ear	lac, ur //
+40 eye	oux //
+41 nose	nas //
+43 tooth	tanty~, tanC //
+44 tongue	toN //
+47 knee	kne //
+48 hand	hanty~, hanC //
+51 breast	bros, bors //
+53 liver	lEv3r //
+54 drink	driNk3 //
+57 see	ze //
+58 hear	hur3 //
+61 die	StErv3, tir3 //
+66 come	kom3 //
+72 sun	zon //
+74 star	Star //
+75 water	vat3r //
+77 stone	StEin //
+82 fire	fur //
+85 path	pat //
+86 mountain	bErk //
+92 night	nax //
+95 full	fol //
+96 new	niy //
+100 name	nam //",IE,GERMANIC,3710,
+"Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,Schlesisch-Wilmesau",IE.GERMANIC,lowe1388,sli,,,Indo-European,Indo-European,LOWER_SILESIAN,{},50.7,False,15.97,,Lower Silesian,22900,3711,False,"LOWER_SILESIAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,Schlesisch-Wilmesau}
+ 1   50.70   15.97       22900         sli
+1 I	eX //
+2 you	du //
+12 two	cwe3 //
+18 person	mon //
+19 fish	feS //
+21 dog	hunt //
+23 tree	bam //
+25 leaf	blet3r //
+30 blood	blut //
+34 horn	horn //
+40 eye	aZ3 //
+41 nose	noS3 //
+44 tongue	con //
+47 knee	kni3 //
+54 drink	treNka //
+57 see	San //
+61 die	Starwa //
+66 come	koma //
+72 sun	Son3 //
+74 star	Stern //
+75 water	wos3r //
+77 stone	Sten3 //
+85 path	wek, wEk //
+86 mountain	bark //
+95 full	fol //
+100 name	noma //",IE,GERMANIC,3711,
+"Indo-European,Germanic,West,HighGerman,German,MiddleGerman,WestMiddleGerman,MoselleFranconian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,MiddleFranconian",IE.GERMANIC,luxe1241,ltz,lux,,Indo-European,Indo-European,LUXEMBOURGISH,{},49.83,False,6.17,,Luxembourgish,391200,3712,False,"LUXEMBOURGISH{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,WestMiddleGerman,MoselleFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,MiddleFranconian}
+ 1   49.83    6.17      391200   lux   ltz
+1 I	Ex //
+2 you	du //
+3 we	mir //
+11 one	ent //
+12 two	cve //
+18 person	mEnS //
+19 fish	feS //
+21 dog	hond //
+22 louse	laus //
+23 tree	bam //
+25 leaf	blat //
+28 skin	haut //
+30 blood	blut //
+31 bone	SaNk, knax //
+34 horn	har, hu3r //
+39 ear	ou3r //
+41 nose	nu3s //
+43 tooth	cant //
+44 tongue	coN //
+47 knee	knei //
+48 hand	hand //
+51 breast	broSt //
+53 liver	liEv3r //
+54 drink	dreNk3n //
+57 see	g3zin, kuk3n //
+58 hear	heiEr3n //
+61 die	StiErv3n //
+66 come	kom3n //
+72 sun	zon //
+74 star	StEr //
+75 water	vas3r //
+77 stone	Sten //
+82 fire	fai3r //
+85 path	pad, ve //
+86 mountain	biErg //
+92 night	nu3t //
+95 full	fol //
+96 new	nai //
+100 name	num //",IE,GERMANIC,3712,
+"Indo-European,Germanic,West,Frisian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Frisian",IE.GERMANIC,nort2626,frr,fno,,Indo-European,Indo-European,NORTH_FRISIAN_AMRUM,{},54.65,False,8.35,,North Frisian Amrum,10000,3713,False,"NORTH_FRISIAN_AMRUM{IE.GERMANIC|Indo-European,Germanic,West,Frisian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Frisian}
+ 1   54.65    8.35       10000   fno   frr
+1 I	ik //
+2 you	di //
+3 we	vi //
+11 one	ian //
+12 two	tau //
+18 person	minsk //
+19 fish	fask //
+21 dog	hi5 //
+22 louse	lis //
+23 tree	bum //
+25 leaf	blet //
+28 skin	skan, hity~ //
+30 blood	blut //
+31 bone	bian, knok //
+34 horn	hurn //
+39 ear	uar //
+40 eye	uk //
+41 nose	nes //
+43 tooth	tus //
+44 tongue	toN //
+47 knee	knebian //
+48 hand	hun //
+51 breast	brast //
+53 liver	liv3r //
+54 drink	draNk //
+57 see	sE //
+58 hear	hiar //
+61 die	stEr3v //
+66 come	kEm //
+72 sun	san //
+74 star	stEr //
+75 water	ved3r //
+77 stone	stian //
+82 fire	ial //
+85 path	stix, vai //
+86 mountain	bErak //
+92 night	nat //
+95 full	fol //
+96 new	nEi //
+100 name	nem //",IE,GERMANIC,3713,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman",IE.GERMANIC,nort2627,nds,lge,,Indo-European,Indo-European,NORTHERN_LOW_SAXON,{},53.1,False,8.78,,Northern Low Saxon,301000,3714,False,"NORTHERN_LOW_SAXON{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman}
+ 1   53.10    8.78      301000   lge   nds
+1 I	ik //
+2 you	du //
+3 we	vi //
+11 one	en //
+12 two	tve //
+18 person	minS //
+19 fish	fiS //
+21 dog	hunt //
+22 louse	lus //
+23 tree	bom //
+25 leaf	blat //
+28 skin	hut //
+30 blood	blot //
+31 bone	knok3n, knak3n //
+34 horn	horn, hurn //
+39 ear	or, ur //
+40 eye	ok //
+41 nose	nes, nEs //
+43 tooth	ten, tEn //
+44 tongue	tuN //
+47 knee	kne //
+48 hand	hant //
+51 breast	borst3n, bost //
+53 liver	lev3r, lEv3r //
+54 drink	driNk //
+57 see	ze //
+58 hear	her, hir //
+61 die	starv, dotbliv //
+66 come	kam, kom //
+72 sun	zin //
+74 star	stern, stirn //
+75 water	vat3r, vot3r //
+77 stone	sten //
+82 fire	fi3r, fir //
+85 path	pat //
+86 mountain	bark //
+92 night	nat //
+95 full	ful, fol //
+96 new	ne, ni //
+100 name	nam, nom //",IE,GERMANIC,3714,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian",IE.GERMANIC,norw1258,nor,,,Indo-European,Indo-European,NORWEGIAN_BOKMAAL,{},61.0,False,8.0,,Norwegian Bokmaal,5189940,3715,False,"NORWEGIAN_BOKMAAL{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   61.00    8.00     5189940         nor
+1 I	yEi //
+2 you	d3 //
+3 we	vi //
+11 one	En, Et //
+12 two	tu //
+18 person	mEnesk3 //
+19 fish	fisk //
+21 dog	h3nd //
+22 louse	l3s //
+23 tree	tre //
+25 leaf	blod //
+28 skin	h3d, Sin //
+30 blood	blud //
+31 bone	bEin //
+34 horn	horn, hon //
+39 ear	er3 //
+40 eye	ey3 //
+41 nose	nes3 //
+43 tooth	ton //
+44 tongue	t3N3 //
+47 knee	kne //
+48 hand	hond //
+51 breast	briN3, brist //
+53 liver	lev3r //
+54 drink	drik3 //
+57 see	se //
+58 hear	her3, lit3 //
+61 die	de //
+66 come	kom3 //
+72 sun	sol //
+74 star	sty~Ern3, sCErn3 //
+75 water	von //
+77 stone	stEin //
+82 fire	ild //
+85 path	vEi, sti //
+86 mountain	bErg, fy~El //
+92 night	not //
+95 full	f3l, f3lt //
+96 new	ni //
+100 name	navn //",IE,GERMANIC,3715,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian",IE.GERMANIC,norw1258,nor,,,Indo-European,Indo-European,NORWEGIAN_BOKMAAL_2,{},59.92,False,10.71,,Norwegian Bokmaal 2,5189940,3716,False,"NORWEGIAN_BOKMAAL_2{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   59.92   10.71     5189940         nor
+1 I	yEy //
+2 you	d3 //
+3 we	vi //
+4 this	dEt3 //
+5 that	de //
+6 who	vEm //
+7 what	va //
+8 not	ik3 //
+9 all	olt //
+11 one	en, Et //
+12 two	tu //
+13 big	stur //
+14 long	loN //
+15 small	lit3n //
+16 woman	kvin3 //
+17 man	mon //
+18 person	mEn3sk3 //
+19 fish	fisk //
+20 bird	f3l //
+21 dog	h3n //
+22 louse	l3s //
+23 tree	tre //
+24 seed	sed //
+25 leaf	bla //
+26 root	rut //
+27 bark	bork //
+28 skin	h3d, Sin //
+29 flesh	SEt //
+30 blood	blu //
+31 bone	bEyn, knok3l //
+32 grease	fEt //
+33 egg	Eg //
+34 horn	hurn //
+35 tail	hal3 //
+36 feather	fyEr //
+37 hair	hor //
+38 head	hud3 //
+39 ear	er3 //
+40 eye	Ey3 //
+41 nose	nes3 //
+42 mouth	m3n //
+43 tooth	ton //
+44 tongue	tuN3 //
+45 claw	fiN3rnEyl //
+46 foot	fut //
+47 knee	kne //
+48 hand	hon //
+49 belly	b3k, mag3 //
+50 neck	hols //
+51 breast	borm //
+52 heart	yErt3 //
+53 liver	lev3r //
+54 drink	drik3 //
+55 eat	spis3 //
+56 bite	bit3 //
+57 see	se //
+58 hear	her3 //
+59 know	vit3 //
+60 sleep	sov3 //
+61 die	de //
+62 kill	drepe //
+63 swim	svEm3 //
+64 fly	fli //
+65 walk	lep3 //
+66 come	kom3 //
+67 lie	lig3 //
+68 sit	sit3 //
+69 stand	sto //
+70 give	yi //
+71 say	si //
+72 sun	sul //
+73 moon	mon3 //
+74 star	styErn3 //
+75 water	von //
+76 rain	rEyn //
+77 stone	stEyn //
+78 sand	son //
+79 earth	yur //
+80 cloud	Si //
+81 smoke	rEyk //
+82 fire	il //
+83 ash	osk3 //
+84 burn	brEn3 //
+85 path	sti //
+86 mountain	bErg, fyEl //
+87 red	re //
+88 green	grEn //
+89 yellow	g3l //
+90 white	vit //
+91 black	svort //
+92 night	nat //
+93 hot	vorm //
+94 cold	kol //
+95 full	f3l //
+96 new	ni //
+97 good	gu //
+98 round	r3n //
+99 dry	tEr //
+100 name	novn //",IE,GERMANIC,3716,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian",IE.GERMANIC,norw1258,nor,,,Indo-European,Indo-European,NORWEGIAN_NYNORSK_TOTEN,{},59.27,False,11.15,,Norwegian Nynorsk Toten,5189940,3717,False,"NORWEGIAN_NYNORSK_TOTEN{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   59.27   11.15     5189940         nor
+1 I	je //
+2 you	du //
+3 we	vi //
+11 one	e5 //
+12 two	tu //
+18 person	%pESun //
+19 fish	fisk //
+21 dog	biS3 //
+22 louse	lus //
+23 tree	tre //
+25 leaf	lewv //
+28 skin	hu //
+30 blood	bLu //
+31 bone	bein //
+34 horn	he5 //
+39 ear	er3 //
+40 eye	3wve //
+41 nose	noso //
+43 tooth	tEn //
+44 tongue	tuN3 //
+47 knee	kne //
+48 hand	hEn //
+51 breast	bringe //
+53 liver	lev3r //
+54 drink	drek3 //
+57 see	So //
+58 hear	her3 //
+61 die	dei //
+66 come	komo //
+72 sun	suL //
+74 star	stjEn3 //
+75 water	vatn //
+77 stone	stein //
+82 fire	el //
+85 path	stig //
+86 mountain	fjel //
+92 night	nat //
+95 full	ful //
+96 new	ni //
+100 name	namn //",IE,GERMANIC,3717,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian",IE.GERMANIC,norw1258,nor,,,Indo-European,Indo-European,NORWEGIAN_RIKSMAL,{},61.0,False,8.0,,Norwegian Riksmal,5189940,3718,False,"NORWEGIAN_RIKSMAL{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   61.00    8.00     5189940         nor
+1 I	yeg //
+3 we	vi //
+11 one	en //
+12 two	to //
+18 person	meneske //
+19 fish	fisk //
+21 dog	hund //
+22 louse	lus //
+23 tree	tre //
+25 leaf	blad //
+28 skin	hud //
+30 blood	blod //
+31 bone	ben //
+39 ear	ere //
+40 eye	eye //
+41 nose	nese //
+43 tooth	tan //
+44 tongue	tuNe //
+48 hand	hond //
+53 liver	lever //
+54 drink	drike //
+57 see	se //
+58 hear	here //
+61 die	de //
+66 come	kome //
+72 sun	sol //
+74 star	styerna, styerne //
+75 water	van //
+77 stone	sten //
+82 fire	varme //
+85 path	vei //
+86 mountain	fyel //
+92 night	nat //
+96 new	ni //
+100 name	navn //",IE,GERMANIC,3718,
+"Indo-European,Germanic,West,English","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian",IE.GERMANIC,olde1238,ang,,,Indo-European,Indo-European,OLD_ENGLISH,{},51.06,True,-1.31,,Old English,0,3719,False,"OLD_ENGLISH{IE.GERMANIC|Indo-European,Germanic,West,English@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian}
+ 1   51.06   -1.31          -2         ang
+1 I	ik //
+2 you	8u //
+3 we	we //
+11 one	an //
+12 two	tw~egen //
+18 person	man //
+19 fish	fisk //
+21 dog	hund //
+22 louse	lus //
+23 tree	treow //
+25 leaf	leaf //
+28 skin	hid //
+30 blood	blod //
+31 bone	ban //
+34 horn	horn //
+39 ear	eare //
+40 eye	eage //
+41 nose	nosu //
+43 tooth	to8 //
+44 tongue	tuNe //
+47 knee	kneow //
+48 hand	hand //
+51 breast	breost //
+53 liver	lifer //
+54 drink	driNk8 //
+57 see	sie8 //
+58 hear	hier8 //
+61 die	stierf8 //
+66 come	kim8 //
+72 sun	sune //
+74 star	steora //
+75 water	wEter //
+77 stone	stan //
+82 fire	fir //
+85 path	weg, strEt //
+86 mountain	beorg //
+92 night	nit //
+95 full	ful //
+96 new	niowe //
+100 name	nama //",IE,GERMANIC,3719,
+"Indo-European,Germanic,West,Frisian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Frisian",IE.GERMANIC,oldf1241,ofs,,,Indo-European,Indo-European,OLD_FRISIAN,{},53.0,True,6.0,,Old Frisian,0,3720,False,"OLD_FRISIAN{IE.GERMANIC|Indo-European,Germanic,West,Frisian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Frisian}
+ 1   53.00    6.00          -2         ofs
+1 I	ik //
+2 you	8u //
+3 we	vi //
+11 one	en //
+12 two	tva //
+18 person	lif, man //
+19 fish	fisk //
+21 dog	hund //
+23 tree	bam, tre //
+25 leaf	blEd //
+28 skin	fEl, hed //
+30 blood	blod //
+31 bone	ben //
+34 horn	horn //
+39 ear	ar3 //
+40 eye	ag3 //
+41 nose	nos3 //
+43 tooth	to8, tusk //
+44 tongue	tuN3 //
+47 knee	kni //
+48 hand	hand //
+51 breast	briast, brust //
+53 liver	livEr3 //
+54 drink	driNka //
+57 see	sia, skavia //
+58 hear	hera //
+61 die	lica, stErva //
+66 come	kuma //
+72 sun	sun3 //
+74 star	stera //
+75 water	vat3r //
+77 stone	sten //
+82 fire	fior //
+85 path	pa8, vEi //
+86 mountain	bErx~ //
+92 night	nat //
+95 full	ful //
+96 new	ni3 //
+100 name	nama //",IE,GERMANIC,3720,
+"Indo-European,Germanic,West","Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman",IE.GERMANIC,oldh1241,goh,,,Indo-European,Indo-European,OLD_HIGH_GERMAN,{},52.0,True,10.0,,Old High German,0,3721,False,"OLD_HIGH_GERMAN{IE.GERMANIC|Indo-European,Germanic,West@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman}
+ 1   52.00   10.00          -2         goh
+1 I	hik, ix //
+2 you	du //
+3 we	wir //
+11 one	eino //
+12 two	cwei //
+18 person	man //
+19 fish	fisko //
+21 dog	hunt //
+23 tree	lus //
+25 leaf	loub, blat //
+28 skin	huti //
+30 blood	bloat //
+31 bone	bein //
+34 horn	horn //
+39 ear	ore //
+40 eye	ouga //
+41 nose	nasa //
+43 tooth	cand //
+44 tongue	cuNa //
+47 knee	knio //
+48 hand	hant //
+51 breast	brust //
+53 liver	lebara //
+54 drink	triNkan //
+57 see	sehan //
+58 hear	horen, gihoren //
+61 die	sterban //
+66 come	kw~eman //
+72 sun	suna //
+74 star	stern //
+75 water	wazar //
+77 stone	stein //
+82 fire	fiur //
+85 path	pad, weg //
+86 mountain	berg //
+92 night	nat //
+95 full	fol //
+96 new	niuwi //
+100 name	namo //",IE,GERMANIC,3721,
+"Indo-European,Germanic,West","Indo-European,Germanic,NorthwestGermanic,WestGermanic",IE.GERMANIC,,,,,Indo-European,Indo-European,OLD_LOW_FRANCONIAN,{},53.26,True,6.74,,Old Low Franconian,0,3722,False,"OLD_LOW_FRANCONIAN{IE.GERMANIC|Indo-European,Germanic,West@Indo-European,Germanic,NorthwestGermanic,WestGermanic}
+ 1   53.26    6.74          -2            
+1 I	ik //
+2 you	8u //
+3 we	vi //
+11 one	Ein //
+12 two	tven3, tvi //
+18 person	man //
+21 dog	hund //
+23 tree	bom, holt //
+28 skin	hud //
+30 blood	bluod //
+31 bone	ben //
+34 horn	horn //
+39 ear	leor, ora //
+40 eye	oga //
+43 tooth	tand //
+44 tongue	tuNa //
+48 hand	hand //
+54 drink	driNkan //
+57 see	sian //
+58 hear	hor3n //
+61 die	stErvan //
+66 come	kuman //
+72 sun	suna //
+75 water	vat3r //
+77 stone	stEin //
+82 fire	fuir //
+85 path	far8, vEg //
+86 mountain	bErg //
+92 night	nat //
+95 full	fol //
+96 new	nuvi //
+100 name	namo //",IE,GERMANIC,3722,
+"Indo-European,Germanic,North","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian",IE.GERMANIC,oldn1244,non,,,Indo-European,Indo-European,OLD_NORSE,{},63.42,True,10.38,,Old Norse,0,3723,False,"OLD_NORSE{IE.GERMANIC|Indo-European,Germanic,North@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   63.42   10.38          -2         non
+1 I	Ek //
+2 you	8u //
+3 we	mer, wer //
+11 one	Ein //
+12 two	tw~Eir //
+18 person	manesky~a, gumi //
+19 fish	fiskr //
+21 dog	garmr, hundr //
+22 louse	lus //
+23 tree	ba8mr, trE //
+25 leaf	bla8 //
+28 skin	fEl, skin //
+30 blood	blo8 //
+31 bone	bEin //
+34 horn	horn //
+39 ear	Eira //
+40 eye	auXa //
+41 nose	nEf, nos //
+43 tooth	ton //
+44 tongue	tuNga //
+47 knee	kne //
+48 hand	hond //
+51 breast	bry~ost, briNga //
+53 liver	lifr //
+54 drink	drEka //
+57 see	sy~a //
+58 hear	hEira //
+61 die	deya //
+66 come	koma //
+72 sun	sol, suna //
+74 star	sty~arna //
+75 water	watn //
+77 stone	halr, stEin //
+82 fire	Eldr //
+85 path	gata, stigr //
+86 mountain	bErg, fy~al //
+92 night	nat //
+95 full	fulr //
+96 new	nir //
+100 name	nafn, kal //",IE,GERMANIC,3723,
+"Indo-European,Germanic,West","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch",IE.GERMANIC,olds1250,osx,,,Indo-European,Indo-European,OLD_SAXON,{},52.37,True,9.72,,Old Saxon,0,3724,False,"OLD_SAXON{IE.GERMANIC|Indo-European,Germanic,West@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch}
+ 1   52.37    9.72          -2         osx
+1 I	ik //
+2 you	8u //
+3 we	vi //
+11 one	en //
+12 two	tven3 //
+18 person	man, gumo //
+19 fish	fisk //
+21 dog	hunt //
+22 louse	lus //
+23 tree	bom //
+25 leaf	blat //
+28 skin	hud //
+30 blood	blot //
+31 bone	ben //
+34 horn	horn //
+39 ear	ora //
+40 eye	oga //
+41 nose	nasa //
+43 tooth	tant //
+44 tongue	tuNa //
+47 knee	knio //
+48 hand	hant //
+51 breast	briost //
+54 drink	driNkan //
+57 see	giseha, seha //
+58 hear	gihoria, horia //
+61 die	svElta, doia //
+66 come	kuma //
+72 sun	suna //
+74 star	stEro //
+75 water	vatar //
+77 stone	sten //
+82 fire	fiur //
+85 path	vEg, si8 //
+86 mountain	bErg //
+92 night	nat //
+95 full	ful //
+96 new	niuvi //
+100 name	namo //",IE,GERMANIC,3724,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman",IE.GERMANIC,plau1238,pdt,,,Indo-European,Indo-European,PLAUTDIETSCH,{},53.0,False,10.0,,Plautdietsch,447360,3725,False,"PLAUTDIETSCH{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman}
+ 1   53.00   10.00      447360         pdt
+1 I	ax //
+2 you	du //
+3 we	vi //
+11 one	aint~ //
+12 two	tvai //
+18 person	menS~ //
+19 fish	feS //
+21 dog	hunt~ //
+22 louse	lus //
+23 tree	boum //
+25 leaf	blaut //
+28 skin	hut //
+30 blood	blout //
+31 bone	knoka //
+34 horn	huorn //
+40 eye	uog //
+41 nose	nas //
+43 tooth	tan //
+44 tongue	tuN //
+47 knee	xnai //
+48 hand	haunt~ //
+51 breast	bossam, brost //
+53 liver	lavo //
+54 drink	drinx~a //
+57 see	sai //
+58 hear	heora //
+61 die	stova, omkoma //
+66 come	koma //
+72 sun	son //
+74 star	staorn //
+75 water	voto //
+77 stone	stain //
+82 fire	fio, braunt~ //
+85 path	stiS //
+86 mountain	boS //
+92 night	not //
+95 full	fol //
+96 new	ni //
+100 name	noma //",IE,GERMANIC,3725,
+,,IE.GERMANIC,,,,,,,PROTO_GERMANIC,{},57.0,True,12.0,,Proto Germanic,0,3726,False,"PROTO_GERMANIC{IE.GERMANIC|@}
+ 1   57.00   12.00          -2            
+1 I	ekan //
+2 you	iuwiz //
+3 we	wiz //
+11 one	ainaz //
+12 two	twai //
+18 person	wextiz //
+19 fish	fiskoyanan //
+21 dog	xun8az //
+22 louse	hnito //
+23 tree	trewan //
+25 leaf	laubhan //
+30 blood	blo8an //
+31 bone	bainan //
+39 ear	auzon //
+43 tooth	tan8, tun8 //
+44 tongue	tunxon //
+47 knee	knewan //
+48 hand	handuz //
+51 breast	breustan //
+53 liver	libhro //
+54 drink	drinkanan //
+57 see	sexwanan //
+58 hear	hauzyanan, hauryanan //
+66 come	kw~emanan //
+72 sun	sunon //
+74 star	sterson, sterno //
+75 water	watar //
+77 stone	stainaz //
+85 path	pa8a //
+96 new	newyaz //
+100 name	namon //",IE,GERMANIC,3726,
+"Indo-European,Germanic,West,HighGerman,German,MiddleGerman,WestMiddleGerman","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,MiddleFranconian,Ripuarian",IE.GERMANIC,kols1241,ksh,grp,,Indo-European,Indo-European,RIPUARIAN_GERMAN,{},51.0,False,7.0,,Ripuarian German,250000,3727,False,"RIPUARIAN_GERMAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,WestMiddleGerman@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,MiddleFranconian,Ripuarian}
+ 1   51.00    7.00      250000   grp   ksh
+1 I	iX //
+2 you	du //
+3 we	mir, miX, meX //
+11 one	en //
+12 two	cwei //
+18 person	mEnS //
+19 fish	fEZS //
+21 dog	hoNk //
+22 louse	lus //
+23 tree	bom //
+25 leaf	blad3X //
+30 blood	blut, blot //
+34 horn	hoXn //
+39 ear	uX //
+40 eye	ox //
+41 nose	nas //
+43 tooth	caNk //
+44 tongue	coN //
+47 knee	knen //
+48 hand	hant //
+51 breast	buXS, boZS //
+53 liver	lab //
+54 drink	dreNk3 //
+57 see	zen //
+58 hear	hiX3 //
+61 die	StEr3v3 //
+66 come	kom3 //
+72 sun	zon //
+74 star	SteXn //
+75 water	wazs3r //
+77 stone	Sten //
+82 fire	fir, for //
+85 path	weyX, pat //
+86 mountain	bEr3X //
+92 night	nat //
+95 full	v3l, f3l //
+96 new	noy, ney //
+100 name	nam3 //",IE,GERMANIC,3727,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman",IE.GERMANIC,sall1238,sdz,,,Indo-European,Indo-European,SALLANDS,{},52.45,False,6.29,,Sallands,0,3728,False,"SALLANDS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman}
+ 1   52.45    6.29           0         sdz
+1 I	ik //
+2 you	u, iy //
+3 we	wi //
+11 one	en, en3 //
+12 two	twe //
+18 person	pErson, mEns //
+19 fish	vis //
+21 dog	hond //
+23 tree	bom //
+39 ear	or //
+40 eye	og3 //
+41 nose	nEze //
+43 tooth	tand //
+44 tongue	toN3 //
+47 knee	kne //
+48 hand	hand //
+54 drink	drink7n //
+57 see	zen //
+58 hear	hEr3n //
+61 die	stErv3n //
+66 come	kom7n //
+72 sun	zinn3 //
+74 star	stErr3 //
+75 water	wat3r //
+77 stone	sten //
+82 fire	vir //
+85 path	pad //
+92 night	naXt //
+95 full	voll3 //
+96 new	niy3 //
+100 name	nam3 //",IE,GERMANIC,3728,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian",IE.GERMANIC,norw1258,nor,,,Indo-European,Indo-European,SANDNES_NORWEGIAN,{},61.0,False,8.0,,Sandnes Norwegian,5189940,3729,False,"SANDNES_NORWEGIAN{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   61.00    8.00     5189940         nor
+1 I	Eg //
+3 we	me //
+11 one	en //
+12 two	to //
+18 person	menesk //
+19 fish	fisk //
+21 dog	hon //
+22 louse	lus //
+23 tree	tre //
+25 leaf	bla //
+28 skin	syin //
+30 blood	blo //
+31 bone	bEin //
+39 ear	Eyra //
+40 eye	Eya //
+41 nose	nase //
+43 tooth	ton //
+44 tongue	toNa //
+48 hand	hon //
+53 liver	lever //
+54 drink	drika //
+57 see	se //
+58 hear	hEyra //
+61 die	dEy //
+66 come	koma //
+72 sun	sol //
+74 star	styerna //
+75 water	vaten //
+77 stone	steiden //
+82 fire	el //
+85 path	vei //
+86 mountain	fyedel //
+92 night	not //
+96 new	nie //
+100 name	navn //",IE,GERMANIC,3729,
+"Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,RhineFranconian",IE.GERMANIC,uppe1400,sxu,,,Indo-European,Indo-European,SAXON_UPPER,{},51.33,False,12.48,,Saxon Upper,2000000,3730,False,"SAXON_UPPER{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,RhineFranconian}
+ 1   51.33   12.48     2000000         sxu
+1 I	iS //
+2 you	d3 //
+3 we	mia //
+11 one	ens //
+12 two	cve //
+18 person	mEnS //
+19 fish	fiS //
+21 dog	hunt //
+22 louse	lous //
+23 tree	bom //
+25 leaf	plot //
+28 skin	hout //
+30 blood	pl3t //
+31 bone	knoN //
+34 horn	hoan //
+40 eye	oX3, gukS3 //
+41 nose	noz3 //
+43 tooth	con //
+44 tongue	cuN3 //
+47 knee	kni //
+48 hand	hont, fod3 //
+51 breast	pXust //
+53 liver	lEba //
+54 drink	tXiNkN, kudln //
+57 see	zen, kukN //
+58 hear	hean //
+61 die	StEam //
+66 come	kom //
+72 sun	zon3 //
+74 star	StEan //
+75 water	vosa //
+77 stone	Stoin //
+82 fire	foia //
+85 path	fot, veS //
+86 mountain	bEak //
+92 night	not //
+95 full	fol //
+96 new	noi //
+100 name	nom3 //",IE,GERMANIC,3730,
+"Indo-European,Germanic,West,English","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian",IE.GERMANIC,scot1243,sco,,,Indo-European,Indo-European,SCOTS,{},55.86,False,-4.26,,Scots,99200,3731,False,"SCOTS{IE.GERMANIC|Indo-European,Germanic,West,English@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian}
+ 1   55.86   -4.26       99200         sco
+1 I	a, 3 //
+2 you	yi, yu //
+3 we	wi, w3 //
+11 one	en, e //
+12 two	tw~o //
+18 person	bodi //
+19 fish	fiS //
+21 dog	dog, doug //
+22 louse	lus, puli //
+23 tree	tri //
+25 leaf	lif, blad //
+28 skin	skin //
+30 blood	blid //
+31 bone	ben //
+34 horn	horn //
+39 ear	ir //
+40 eye	i, kik3r //
+41 nose	noz, nEb //
+43 tooth	te8, ti8 //
+44 tongue	toN //
+47 knee	ni, kni //
+48 hand	hond, han //
+51 breast	birzk3t, borzk3t //
+54 drink	driNk~, bEb //
+57 see	si //
+58 hear	hir //
+61 die	di //
+66 come	kam, k3m //
+72 sun	son, sin //
+74 star	starn, blENk~3r //
+75 water	wat3r //
+77 stone	sten //
+82 fire	f3i3r, iN3l //
+85 path	pad, p38 //
+86 mountain	bEn, montin //
+92 night	nit //
+95 full	fu //
+96 new	ny~u //
+100 name	nem //",IE,GERMANIC,3731,
+"Indo-European,Germanic,West,English","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian",IE.GERMANIC,scot1243,sco,,,Indo-European,Indo-European,SCOTS_2,{},55.54,False,-6.0,,Scots 2,99200,3732,False,"SCOTS_2{IE.GERMANIC|Indo-European,Germanic,West,English@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian}
+ 1   55.54   -6.00       99200         sco
+1 I	E //
+2 you	8u, 8i //
+3 we	wi, hiz //
+11 one	in //
+12 two	twa //
+21 dog	dog //
+22 louse	lus //
+23 tree	tri //
+31 bone	bon //
+40 eye	e //
+48 hand	han //
+57 see	si //
+58 hear	hir //
+61 die	di //
+66 come	kam //
+72 sun	son //
+75 water	wot3r //
+77 stone	stin, sten, stan //
+82 fire	eld, f3i3r //
+85 path	pa8 //
+92 night	nixt, neixt, nExt //
+95 full	fol //
+96 new	nyu //
+100 name	nem //",IE,GERMANIC,3732,
+"Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian",IE.GERMANIC,stan1295,deu,gbl,,Indo-European,Indo-European,STANDARD_GERMAN,{},52.0,False,10.0,,Standard German,76029280,3733,False,"STANDARD_GERMAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian}
+ 1   52.00   10.00    76029280   gbl   deu
+1 I	ix //
+2 you	du //
+3 we	vir //
+11 one	ains //
+12 two	cvai //
+18 person	mEnS //
+19 fish	fiS //
+21 dog	hunt //
+22 louse	laus //
+23 tree	baum //
+25 leaf	blat //
+28 skin	haut //
+30 blood	blut //
+31 bone	knoX3n //
+34 horn	horn //
+39 ear	or //
+40 eye	aug3 //
+41 nose	naz3 //
+43 tooth	ch~an //
+44 tongue	ch~uN3 //
+47 knee	kni //
+48 hand	hant //
+51 breast	brust //
+53 liver	leb3r //
+54 drink	triNk3n //
+57 see	ze3n //
+58 hear	her3n //
+61 die	Sterb3n //
+66 come	kh~om3n //
+72 sun	zon3 //
+74 star	StErn //
+75 water	vas3r //
+77 stone	Stain //
+82 fire	foia //
+85 path	pf~at, vek //
+86 mountain	bErk //
+92 night	naXt //
+95 full	fol //
+96 new	noi //
+100 name	nam3 //",IE,GERMANIC,3733,
+"Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian",IE.GERMANIC,stan1295,deu,gbl,,Indo-European,Indo-European,STANDARD_GERMAN_2,{},52.0,False,10.0,,Standard German 2,76029280,3734,False,"STANDARD_GERMAN_2{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian}
+ 1   52.00   10.00    76029280   gbl   deu
+1 I	iS //
+2 you	du //
+3 we	via //
+4 this	dis //
+5 that	das //
+6 who	fea //
+7 what	vas //
+8 not	niSt //
+9 all	ales //
+11 one	ains //
+12 two	cvai //
+13 big	gXos //
+14 long	laN //
+15 small	klain //
+16 woman	fXau //
+17 man	man //
+18 person	mEnS //
+19 fish	fiS //
+20 bird	fog3l //
+21 dog	hunt //
+22 louse	laus //
+23 tree	baum //
+24 seed	zat //
+25 leaf	blat //
+26 root	vuac3l //
+27 bark	Xind3 //
+28 skin	haut //
+29 flesh	flaiS //
+30 blood	blut //
+31 bone	knoX3n //
+32 grease	fEt //
+33 egg	ai //
+34 horn	hoan //
+35 tail	Svanc //
+36 feather	feda //
+37 hair	haa //
+38 head	kopf //
+39 ear	oa //
+40 eye	aug3 //
+41 nose	naz3 //
+42 mouth	munt //
+43 tooth	can //
+44 tongue	cuN3 //
+45 claw	fiNEanag3l //
+46 foot	fus //
+47 knee	kni //
+48 hand	hant //
+49 belly	bauX //
+50 neck	hals //
+51 breast	buz3n //
+52 heart	hEac //
+53 liver	leba //
+54 drink	tXiNk3n //
+55 eat	Es3n //
+56 bite	bais3n //
+57 see	ze3n //
+58 hear	heX3n //
+59 know	vis3n //
+60 sleep	Slaf3n //
+61 die	StEab3n //
+62 kill	tet3n //
+63 swim	Svim3n //
+64 fly	flig3n //
+65 walk	lauf3n //
+66 come	kom3n //
+67 lie	lig3n //
+68 sit	zic3n //
+69 stand	Ste3n //
+70 give	geb3n //
+71 say	zag3n //
+72 sun	zon3 //
+73 moon	mont //
+74 star	Stan //
+75 water	vasa //
+76 rain	Xeg3n //
+77 stone	Stain //
+78 sand	zant //
+79 earth	Ead3 //
+80 cloud	volk3 //
+81 smoke	XauX //
+82 fire	foia //
+83 ash	aS3 //
+84 burn	bXEn3n //
+85 path	pfat //
+86 mountain	bEak //
+87 red	Xot //
+88 green	gXin //
+89 yellow	gElp //
+90 white	vais //
+91 black	Svaac //
+92 night	naXt //
+93 hot	vaam //
+94 cold	kalt //
+95 full	fol //
+96 new	noi //
+97 good	gut //
+98 round	Xunt //
+99 dry	tXok3n //
+100 name	nam3 //",IE,GERMANIC,3734,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman",IE.GERMANIC,stel1238,stl,,,Indo-European,Indo-European,STELLINGWERFS,{},52.98,False,6.22,,Stellingwerfs,0,3735,True,"STELLINGWERFS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman}
+ 1   52.98    6.22          -1         stl
+1 I	ik, ik3 //
+2 you	y3, you //
+3 we	wiy //
+11 one	ien, ien3 //
+12 two	tviE, tviEy3 //
+18 person	menske //
+19 fish	fis //
+21 dog	hont //
+22 louse	lus //
+23 tree	bom //
+25 leaf	blat //
+28 skin	hut, fEl //
+30 blood	blut //
+31 bone	boNk3, bin //
+34 horn	horn, tut3r //
+39 ear	or //
+40 eye	ok, og3 //
+41 nose	nez3 //
+43 tooth	tan3 //
+44 tongue	toN3 //
+47 knee	kniy3, knib3l //
+48 hand	hant //
+51 breast	bost, bost3n //
+53 liver	lev3r //
+54 drink	driNk //
+57 see	kik, zi //
+58 hear	her //
+61 die	dotga, starv //
+66 come	kom //
+72 sun	zun3 //
+74 star	stern //
+75 water	vEt3r //
+77 stone	stin //
+82 fire	fur //
+85 path	pat, vek //
+86 mountain	bark //
+92 night	nat //
+95 full	fol, fol3 //
+96 new	niy, niy3 //
+100 name	nEm3 //",IE,GERMANIC,3735,
+"Indo-European,Germanic,West,HighGerman,German,UpperGerman,Alemannic","Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Alemannic",IE.GERMANIC,swab1242,swg,,,Indo-European,Indo-European,SWABIAN,{},48.97,False,9.28,,Swabian,820000,3736,False,"SWABIAN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,UpperGerman,Alemannic@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,AlpineGermanic,Alemannic}
+ 1   48.97    9.28      820000         swg
+1 I	i //
+2 you	du //
+3 we	mia //
+11 one	ois //
+12 two	cvoi //
+18 person	mEnZE //
+19 fish	fiS //
+21 dog	hund //
+22 louse	laus //
+23 tree	bom //
+25 leaf	blad //
+28 skin	haut //
+30 blood	blud //
+31 bone	knoXE //
+34 horn	hoan //
+39 ear	EalE //
+40 eye	augE, oiglE //
+41 nose	ciNgE, nas //
+43 tooth	can //
+44 tongue	cuN, cuNE //
+47 knee	knui //
+48 hand	hEnd //
+51 breast	bX~uSt //
+53 liver	leba //
+54 drink	dX~iNg~ //
+57 see	se //
+58 hear	hea //
+61 die	StEab, Stuab //
+66 come	kh~om //
+72 sun	sonE //
+74 star	StEan //
+75 water	vaza, voza //
+77 stone	Stoi //
+82 fire	fuia //
+85 path	veg //
+86 mountain	bEag //
+92 night	nad //
+95 full	fol, ful //
+96 new	noi //
+100 name	nom, nomE //",IE,GERMANIC,3736,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Swedish","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,NorthScandinavian,East-CentralSwedic,EastSwedic",IE.GERMANIC,swed1254,swe,swe,,Indo-European,Indo-European,SWEDISH,{},60.0,False,15.0,,Swedish,9606320,3737,False,"SWEDISH{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Swedish@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,NorthScandinavian,East-CentralSwedic,EastSwedic}
+ 1   60.00   15.00     9606320   swe   swe
+1 I	yog //
+2 you	du //
+3 we	vi //
+11 one	et //
+12 two	tv~o //
+18 person	mEniSxE //
+19 fish	fisk //
+21 dog	h3nd~ //
+22 louse	lus //
+23 tree	trEd //
+25 leaf	lev //
+28 skin	Sx~in //
+30 blood	bl~ud //
+31 bone	ben //
+34 horn	hun //
+39 ear	3rE //
+40 eye	3gE //
+41 nose	nEsE //
+43 tooth	tEnd~ //
+44 tongue	t3NE //
+47 knee	knE //
+48 hand	hEnd~ //
+51 breast	brEst //
+53 liver	lev3r //
+54 drink	drikE //
+57 see	se //
+58 hear	hurE //
+61 die	de //
+66 come	komE //
+72 sun	sul //
+74 star	Sx~EnE //
+75 water	vEt3n //
+77 stone	sten //
+82 fire	eld //
+85 path	stig //
+86 mountain	bEry~ //
+92 night	nEt //
+95 full	f3l //
+96 new	ni //
+100 name	nEmn //",IE,GERMANIC,3737,
+"Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Swedish","Indo-European,Germanic,NorthwestGermanic,NorthGermanic,NorthScandinavian,East-CentralSwedic,EastSwedic",IE.GERMANIC,swed1254,swe,swe,,Indo-European,Indo-European,SWEDISH_2,{},60.0,False,15.0,,Swedish 2,9606320,3738,False,"SWEDISH_2{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Swedish@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,NorthScandinavian,East-CentralSwedic,EastSwedic}
+ 1   60.00   15.00     9606320   swe   swe
+1 I	yog //
+2 you	d3 //
+3 we	vi //
+4 this	dEtta //
+5 that	det //
+6 who	vEmm //
+7 what	vod //
+8 not	Eyy, innt3 //
+9 all	allt //
+11 one	en, Ett //
+12 two	tvo //
+13 big	stur //
+14 long	loNN //
+15 small	lit3n //
+16 woman	kvinna //
+17 man	mann //
+18 person	mEnniska //
+19 fish	fissk //
+20 bird	fog3l //
+21 dog	h3nnd //
+22 louse	l3s //
+23 tree	trEd //
+24 seed	sodd //
+25 leaf	lev, blod //
+26 root	rut //
+27 bark	barrk //
+28 skin	h3d, inn //
+29 flesh	Sett //
+30 blood	blud //
+31 bone	ben //
+32 grease	fEtt //
+33 egg	Egg //
+34 horn	hun //
+35 tail	svanns, Et //
+36 feather	fyEd3r //
+37 hair	hor //
+38 head	h3v3d //
+39 ear	Era //
+40 eye	ega //
+41 nose	nEsa //
+42 mouth	m3n //
+43 tooth	tannd //
+44 tongue	t3NNa //
+45 claw	fiNNEnag3l //
+46 foot	fut //
+47 knee	knE //
+48 hand	hannd //
+49 belly	b3k, mog3 //
+50 neck	halls //
+51 breast	barrm //
+52 heart	yEta //
+53 liver	lev3r //
+54 drink	drikka //
+55 eat	Eta //
+56 bite	bita //
+57 see	se //
+58 hear	hEra //
+59 know	veta //
+60 sleep	suva //
+61 die	de //
+62 kill	deda //
+63 swim	simma //
+64 fly	fliga //
+65 walk	lepa //
+66 come	komma //
+67 lie	ligga //
+68 sit	sitta //
+69 stand	sto //
+70 give	ye //
+71 say	sEga //
+72 sun	sul //
+73 moon	mon3 //
+74 star	Ena //
+75 water	vatt3n //
+76 rain	rENNn //
+77 stone	sten //
+78 sand	sannd //
+79 earth	yud //
+80 cloud	i, muln //
+81 smoke	rek //
+82 fire	Elld //
+83 ash	asska //
+84 burn	brinna //
+85 path	stig //
+86 mountain	bErrg, fyEll //
+87 red	red //
+88 green	gren //
+89 yellow	g3l //
+90 white	vit //
+91 black	svot //
+92 night	natt //
+93 hot	varrm //
+94 cold	kall //
+95 full	f3ll //
+96 new	ni //
+97 good	bro //
+98 round	r3nnd //
+99 dry	torr //
+100 name	nammn //",IE,GERMANIC,3738,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon","Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman",IE.GERMANIC,twen1241,twd,,,Indo-European,Indo-European,TWENTS,{},52.29,False,6.77,,Twents,0,3739,False,"TWENTS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowSaxon@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Altsachsisch,Middle-ModernLowGerman,LowGerman}
+ 1   52.29    6.77           0         twd
+1 I	ik3n //
+2 you	du, t3 //
+3 we	wiy //
+11 one	ean, ein, in, en3 //
+12 two	twe //
+18 person	person, meansk3 //
+19 fish	vis //
+21 dog	hond, hEn, hond3 //
+22 louse	lus, luz //
+23 tree	bEm //
+25 leaf	blar //
+28 skin	vEln, hud //
+30 blood	blod //
+31 bone	bot //
+34 horn	hErn //
+39 ear	orn, Ern //
+40 eye	kik3r //
+41 nose	nEs, nEz //
+43 tooth	tan //
+44 tongue	toNn, toN3 //
+47 knee	kne, knai, kni //
+48 hand	hand3 //
+51 breast	bErst3 //
+53 liver	lEv3r //
+54 drink	drenkn, drEnkn, dreinkn //
+57 see	kikn, zen //
+58 hear	hErn //
+61 die	stearvn //
+66 come	kEmn //
+72 sun	zin3 //
+74 star	stern //
+75 water	woat3r //
+77 stone	sten, stEn //
+82 fire	vEr //
+85 path	pad, pEd //
+86 mountain	bearx3 //
+92 night	naxt3 //
+95 full	vol //
+96 new	niy //
+100 name	nams, nam3 //",IE,GERMANIC,3739,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch",IE.GERMANIC,vlaa1240,vls,,,Indo-European,Indo-European,WESTVLAAMS,{},51.22,False,3.23,,Westvlaams,1234000,3740,False,"WESTVLAAMS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   51.22    3.23     1234000         vls
+1 I	ik3, ik //
+2 you	gi3, y3 //
+3 we	ve, vidr3 //
+11 one	Een, yin //
+12 two	tvEe, tvy~i //
+19 fish	fis, fis3l //
+21 dog	ont, hont //
+22 louse	luz3 //
+23 tree	bom //
+25 leaf	lof //
+28 skin	fEl //
+30 blood	blut //
+31 bone	bEen, bon3 //
+34 horn	orn3, horn3 //
+39 ear	or3 //
+40 eye	og3 //
+41 nose	niuz3 //
+43 tooth	tant //
+44 tongue	toN3 //
+47 knee	kni, ni //
+48 hand	ant, hant //
+51 breast	borst3n, bost //
+53 liver	levEr3, levr3 //
+54 drink	drink //
+57 see	zi //
+58 hear	or3, or //
+61 die	dotgoa, stErv //
+66 come	kom //
+72 sun	zun3 //
+74 star	stEr3 //
+75 water	vaotEr3, vaotr3 //
+77 stone	stEen, sty~in //
+82 fire	fir //
+85 path	pat //
+86 mountain	bErk //
+92 night	nat //
+95 full	ful //
+96 new	nieu //
+100 name	naom3 //",IE,GERMANIC,3740,
+"Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,Schlesisch-Wilmesau",IE.GERMANIC,wymy1235,wym,,,Indo-European,Indo-European,WYMYSORYS,{},49.54,False,19.9,,Wymysorys,70,3741,False,"WYMYSORYS{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,German,MiddleGerman,EastMiddleGerman@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,HighFranconian,Schlesisch-Wilmesau}
+ 1   49.54   19.90          70         wym
+1 I	ix //
+2 you	du //
+3 we	wir //
+11 one	as //
+12 two	cwu //
+18 person	gihyEt, menC //
+19 fish	fiS //
+21 dog	hunt //
+23 tree	bom //
+28 skin	faw //
+30 blood	bwut //
+31 bone	knoxa //
+39 ear	onn //
+40 eye	og //
+41 nose	naz //
+44 tongue	cu5n //
+48 hand	hant //
+54 drink	trinkia //
+57 see	zan //
+58 hear	hyEn //
+61 die	Starwa //
+66 come	kuma //
+72 sun	zun //
+74 star	Starn //
+75 water	wasser //
+77 stone	Sta5 //
+82 fire	foyer //
+85 path	wak //
+86 mountain	gibyEg //
+92 night	naxt //
+95 full	fow //
+96 new	noy //
+100 name	nama //",IE,GERMANIC,3741,
+"Indo-European,Germanic,West,HighGerman,Yiddish","Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,Yiddish",IE.GERMANIC,east2295,ydd,ydd,,Indo-European,Indo-European,YIDDISH_EASTERN,{},52.0,False,23.0,,Yiddish Eastern,509160,3742,False,"YIDDISH_EASTERN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,Yiddish@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,Yiddish}
+ 1   52.00   23.00      509160   ydd   ydd
+1 I	iX //
+2 you	du //
+3 we	mir //
+11 one	Ens //
+12 two	cvEi //
+18 person	%pErzon //
+19 fish	fiS //
+21 dog	hunt //
+22 louse	los //
+23 tree	bom //
+25 leaf	blat //
+28 skin	hot //
+30 blood	dam //
+31 bone	bEn //
+34 horn	horn //
+39 ear	oy3r //
+40 eye	og //
+41 nose	noz //
+43 tooth	con //
+44 tongue	cuN //
+47 knee	kni //
+48 hand	hant //
+51 breast	brust //
+53 liver	lEb3r //
+54 drink	triNk3n //
+57 see	zE3n //
+58 hear	hErn //
+61 die	Starbn //
+66 come	kom3n //
+72 sun	zun //
+74 star	StErn //
+75 water	vas3r //
+77 stone	StEn //
+82 fire	fay3r, srEif3 //
+85 path	dErEX //
+86 mountain	barg //
+92 night	nat //
+95 full	ful //
+96 new	nai //
+100 name	nom3n, SEm //",IE,GERMANIC,3742,
+"Indo-European,Germanic,West,HighGerman,Yiddish","Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,Yiddish",IE.GERMANIC,west2361,yih,ydd,,Indo-European,Indo-European,YIDDISH_WESTERN,{},51.0,False,10.0,,Yiddish Western,5000,3743,False,"YIDDISH_WESTERN{IE.GERMANIC|Indo-European,Germanic,West,HighGerman,Yiddish@Indo-European,Germanic,NorthwestGermanic,WestGermanic,HighGerman,Middle-ModernHighGerman,ModernHighGerman,Yiddish}
+ 1   51.00   10.00        5000   ydd   yih
+1 I	ix //
+2 you	du //
+3 we	mir //
+11 one	eyn //
+12 two	tsvey //
+18 person	%perzon //
+19 fish	fis //
+21 dog	hunt, keylev //
+22 louse	loyz //
+23 tree	boym //
+25 leaf	blat //
+28 skin	hoyt //
+30 blood	blut //
+31 bone	beyn //
+34 horn	horn //
+39 ear	oyer //
+40 eye	oyg //
+41 nose	noz //
+43 tooth	tson //
+44 tongue	tsung //
+47 knee	kni //
+48 hand	hant //
+53 liver	laber //
+54 drink	trinken //
+57 see	zen //
+58 hear	hern //
+61 die	Starbn, nifter vern //
+66 come	kumen //
+72 sun	zun //
+74 star	Stern //
+75 water	vaser //
+77 stone	Steyn //
+82 fire	fayer //
+85 path	vegl //
+86 mountain	barg //
+92 night	naxt //
+95 full	ful //
+96 new	nay //
+100 name	nomen //",IE,GERMANIC,3743,
+"Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian","Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch",IE.GERMANIC,zeeu1238,zea,duz,,Indo-European,Indo-European,ZEEUWS,{},51.5,False,3.75,,Zeeuws,220000,3744,False,"ZEEUWS{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   51.50    3.75      220000   duz   zea
+1 I	ik3 //
+2 you	ji //
+3 we	ons //
+11 one	en3 //
+12 two	tve3 //
+18 person	mEns3 //
+19 fish	fis //
+21 dog	ont //
+22 louse	liz3 //
+23 tree	bom //
+25 leaf	blat //
+28 skin	fEl //
+30 blood	blu3t //
+31 bone	ben //
+34 horn	orn //
+39 ear	or3 //
+40 eye	ox3 //
+41 nose	nez3 //
+43 tooth	tant //
+44 tongue	tuN3 //
+47 knee	kni3 //
+48 hand	ant //
+51 breast	bost //
+53 liver	lev3r //
+54 drink	driNk //
+57 see	zi3 //
+58 hear	or3 //
+61 die	dotxa3 //
+66 come	kom3 //
+72 sun	zun3 //
+74 star	star3 //
+75 water	vEt3r //
+77 stone	sten //
+82 fire	fir //
+85 path	pat //
+86 mountain	bErk //
+92 night	nat //
+95 full	fol //
+96 new	niw, niu //
+100 name	nEm3 //",IE,GERMANIC,3744,
