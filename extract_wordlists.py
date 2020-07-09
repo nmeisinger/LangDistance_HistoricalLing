@@ -15,21 +15,16 @@ def read_file(filename):
         next(reader)
 
         for line in reader:
-            print(line)
             lang_name = line[15]
             wordlist = line[19]  
             word_dict = _parse_wordlist(wordlist)
 
             lang_list_dict[lang_name] = word_dict
-            print("___________________-")
 
     return lang_list_dict
 
 
 def _parse_wordlist(wordlist):
-
-    #import code
-    #code.interact(local=locals())
 
     word_dict = {}
     wordlist = wordlist.split('\n')
