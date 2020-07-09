@@ -4,6 +4,7 @@ import sys
 import csv
 import json
 import argparse
+import re
 
 def read_file(filename):
 
@@ -14,35 +15,31 @@ def read_file(filename):
         next(reader)
 
         for line in reader:
+            print(line)
             lang_name = line[15]
             wordlist = line[19]  
             word_dict = _parse_wordlist(wordlist)
 
             lang_list_dict[lang_name] = word_dict
+            print("___________________-")
 
     return lang_list_dict
 
 
 def _parse_wordlist(wordlist):
 
-    wordlist = wordlist.split()[5:]
-    eng_word = ""
-    next_eng = False
-    word_dict = {}
+    #import code
+    #code.interact(local=locals())
 
-    for elem in wordlist:
-        if elem.isdigit():
-            next_eng = True
-            continue
-        elif next_eng:
-            eng_word = elem
-            word_dict[elem] = []
-            next_eng = False
-            continue
-        elif elem != "//" and eng_word != "":
-            if elem[-1] == ',':
-                elem = elem[:-1]
-            word_dict[eng_word].append(elem)
+    word_dict = {}
+    wordlist = wordlist.split('\n')
+    for line in wordlist:
+        if line[0].isdigit():
+            line.replace(',', '')
+            tokens = line.split()
+            word_concept = tokens[1]
+            word_trans = [tokens[i] for i in range(2, len(tokens)-1)]
+            word_dict[word_concept] = word_trans
 
     return word_dict
     
