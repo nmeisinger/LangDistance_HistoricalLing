@@ -4,6 +4,9 @@ from Levenshtein import distance
 import json
 import numpy as np
 from pandas import DataFrame
+from lingpy import *
+from ete3 import Tree, TreeStyle
+
 
 def read_file(filename):
     with open(filename, 'rt', encoding="utf-8") as in_f:
@@ -64,10 +67,24 @@ def calc_distance_matrix(data):
     d.index = data.keys()
     d.columns = data.keys()
     return d
+
+
+def lingpy_tree(d, filename="tree.png"):
+
     
+    #import code
+    #code.interact(local=locals())
+    languages = d.columns.values
+
+    tree = neighbor(d.values, languages)
+    #print(tree)
+    t = Tree(tree)
+    t.render(filename)
+    #t.show()
 
 if __name__ == "__main__":
 
-    data = read_file("lang2.json")
+    data = read_file("upd_lang.json")
     d = calc_distance_matrix(data)
-    save_distance_matrix(d)
+    lingpy_tree(d)
+    #save_distance_matrix(d, "upd_d_m.csv")
