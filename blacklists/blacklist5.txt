@@ -1,0 +1,8 @@
+BavarianGerman
+BerneseGerman
+HutteriteGerman
+NorthernLowSaxon
+RipuarianGerman
+Sallands
+SaxonUpper
+Swabian
